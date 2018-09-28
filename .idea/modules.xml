@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sura-am-steps-pruebas-aceptacion.iml" filepath="$PROJECT_DIR$/sura-am-steps-pruebas-aceptacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sura-am-steps-pruebas-aceptacion_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sura-am-steps-pruebas-aceptacion_main.iml" group="sura-am-steps-pruebas-aceptacion" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sura-am-steps-pruebas-aceptacion_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sura-am-steps-pruebas-aceptacion_test.iml" group="sura-am-steps-pruebas-aceptacion" />
+    </modules>
+  </component>
+</project>
