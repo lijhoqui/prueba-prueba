@@ -19,6 +19,9 @@ repositories {
 
 dependencies {
 
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.+'
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-server', version: '3.+'
+    compile group: 'org.seleniumhq.selenium', name: 'selenium-remote-driver', version: '3.+'
     compile group: 'io.cucumber', name: 'cucumber-junit', version: '2.+'
     compile group: 'io.cucumber', name: 'cucumber-java', version: '2.+'
     compile group: 'io.cucumber', name: 'cucumber-picocontainer', version: '2.+'
