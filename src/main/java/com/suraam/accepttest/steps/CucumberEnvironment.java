@@ -44,9 +44,9 @@ public class CucumberEnvironment {
 
 	private String obtenerUbicacionEjecutable(String os) {
 		if(esWindows(os)){
-			return "src/java//resources/drivers/chromedriver.exe";
+			return "src/main//resources/drivers/chromedriver.exe";
 		}else if(esMac(os)){
-			return "src/java//resources/drivers/chromedriver";
+			return "src/main//resources/drivers/chromedriver";
 		}else {
 			throw new IllegalStateException();
 		}

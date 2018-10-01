@@ -124,7 +124,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/suraam/accepttest/steps/CucumberEnvironment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="179">
-              <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+              <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -612,30 +612,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="sura-am-steps-pruebas-aceptacion" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sura-am-steps-pruebas-aceptacion" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sura-am-steps-pruebas-aceptacion" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sura-am-steps-pruebas-aceptacion" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="accepttest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sura-am-steps-pruebas-aceptacion" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sura-am-steps-pruebas-aceptacion" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="accepttest" type="462c0819:PsiDirectoryNode" />
-              <item name="steps" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -856,7 +832,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3285528" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13478819" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1970475" />
       <window_info anchor="bottom" id="SonarLint" order="11" weight="0.3098202" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.24119948" />
       <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.20924261" />
@@ -1089,7 +1065,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/suraam/accepttest/steps/CucumberEnvironment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
-          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+          <caret line="48" column="29" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
