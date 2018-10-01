@@ -9,11 +9,11 @@ import java.util.Map;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
+import com.suraam.accepttest.utilities.Utilities;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import com.suraam.accepttest.modelo.Tenant;
-import com.suraam.accepttest.utilities.Utilities;
 
 import cucumber.api.Scenario;
 import cucumber.api.java.After;

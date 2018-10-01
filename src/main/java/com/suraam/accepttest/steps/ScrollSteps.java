@@ -1,10 +1,9 @@
 package com.suraam.accepttest.steps;
 
+import com.suraam.accepttest.utilities.Utilities;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-
-import com.suraam.accepttest.utilities.Utilities;
 
 import cucumber.api.java.en.Given;
 

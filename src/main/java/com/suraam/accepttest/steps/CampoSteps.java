@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Properties;
 
+import com.suraam.accepttest.utilities.Utilities;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -14,7 +15,6 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.suraam.accepttest.modelo.Tenant;
-import com.suraam.accepttest.utilities.Utilities;
 
 import cucumber.api.DataTable;
 import cucumber.api.java.en.Then;
