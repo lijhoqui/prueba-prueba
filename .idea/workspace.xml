@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de901e0d-ee26-472f-bd71-222b744d0d17" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.3/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.3/fileContent/fileContent.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/suraam/accepttest/formatters/TagsFormatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/suraam/accepttest/steps/ScrollSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/suraam/accepttest/steps/ScrollSteps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/sura-am-steps-pruebas-aceptacion-1.0-all.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/sura-am-steps-pruebas-aceptacion-1.0-all.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/sura-am-steps-pruebas-aceptacion-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/sura-am-steps-pruebas-aceptacion-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/suraam/accepttest/formatters/TagsFormatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/suraam/accepttest/steps/CampoSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/suraam/accepttest/steps/CampoSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/suraam/accepttest/steps/CucumberEnvironment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/suraam/accepttest/steps/CucumberEnvironment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/suraam/accepttest/steps/ScrollSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/suraam/accepttest/steps/ScrollSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -84,11 +69,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Jenkinsfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jenkinsfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="39" column="84" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -132,7 +126,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ScrollSteps.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ScrollSteps.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/suraam/accepttest/steps/ScrollSteps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="197">
@@ -144,8 +138,11 @@
       <file leaf-file-name="Utilities.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/suraam/accepttest/utilities/Utilities.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
+            <state relative-caret-position="240">
+              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -546,13 +543,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/com/suraam/accepttest/modelo/Tenant.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/Jenkinsfile" />
         <option value="$PROJECT_DIR$/src/main/java/com/suraam/accepttest/steps/AutenticacionSteps.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/suraam/accepttest/steps/CucumberEnvironment.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/suraam/accepttest/steps/CampoSteps.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/suraam/accepttest/steps/ClicSteps.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/suraam/accepttest/steps/ScrollSteps.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -570,10 +567,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2079" />
+    <option name="x" value="-4" />
     <option name="y" value="-4" />
     <option name="width" value="1608" />
-    <option name="height" value="908" />
+    <option name="height" value="864" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -588,6 +585,17 @@
             <path>
               <item name="sura-am-steps-pruebas-aceptacion" type="b2602c69:ProjectViewProjectNode" />
               <item name="sura-am-steps-pruebas-aceptacion" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="sura-am-steps-pruebas-aceptacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sura-am-steps-pruebas-aceptacion" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sura-am-steps-pruebas-aceptacion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sura-am-steps-pruebas-aceptacion" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sura-am-steps-pruebas-aceptacion" type="b2602c69:ProjectViewProjectNode" />
@@ -836,7 +844,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1604" y="-4" width="1608" height="908" extended-state="6" />
+    <frame x="-4" y="-4" width="1608" height="864" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32918397" />
@@ -845,7 +854,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32991013" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32724902" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3471646" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32918397" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3285528" />
       <window_info id="Capture Tool" order="6" />
@@ -995,13 +1004,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jenkinsfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.cucumber/cucumber-core/2.4.0/e7030ed3ddb9e3e448733c2787e8da771df50c1f/cucumber-core-2.4.0-sources.jar!/cucumber/api/event/EventHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -1013,20 +1015,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/suraam/accepttest/utilities/Utilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -1068,6 +1056,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="20" column="56" lean-forward="true" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/suraam/accepttest/utilities/Utilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenkinsfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="39" column="84" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
         </state>
       </provider>
     </entry>

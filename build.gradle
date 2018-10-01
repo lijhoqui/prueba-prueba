@@ -9,6 +9,10 @@ apply plugin: 'eclipse'
 version = '1.0'
 sourceCompatibility = 1.8
 
+shadowJar{
+    archiveName = 'steps-pruebas-aceptacion-1.0-all.jar'
+}
+
 repositories {
     mavenCentral()
 }
